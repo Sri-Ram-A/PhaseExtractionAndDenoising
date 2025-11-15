@@ -1,0 +1,10 @@
+{
+    "total_params": 2065,
+    "trainable_params": 2065,
+    "optimizer_params": 2065,
+    "model_size_mb": 0.007877349853515625,
+    "MACs": "35.88 MMac",
+    "FLOPs": "35.88 MMac",
+    "criterion": "MSELoss",
+    "optimizer": "Adam"
+}
