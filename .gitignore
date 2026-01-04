@@ -2,3 +2,6 @@ __pycache__/
 mlruns/
 *.pyc
 mlflow.db
+data/
+mlartifacts/
+*.zip
